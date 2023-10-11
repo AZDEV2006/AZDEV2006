@@ -28,8 +28,6 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Material Design](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%Css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![semanticuireact](https://img.shields.io/badge/Semantic%UI%React%Css-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)
 
 #### IDE
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
