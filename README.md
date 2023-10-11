@@ -1,4 +1,5 @@
-# Hello World 🌏# Hello World 🌏
+🌏# Hello World 🌏
+💻# Hello Programer 💻
 
 ## 💻 My Stack of Coding
 
@@ -51,9 +52,3 @@
 [![Github Status](https://github-readme-stats.vercel.app/api?username=AZDEV2006&count_private=true&theme=onedark&show_icons=true)](https://github.com/AZDEV2006)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AZDEV2006&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/AZDEV2006)
-
-## 🧧 Donate me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31VK3J)
-message.txt
-8 KB
