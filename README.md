@@ -1,6 +1,3 @@
-🌏# Hello World 🌏
-💻# Hello Programer 💻
-
 ## 💻 My Stack of Coding
 
 #### Web Development
